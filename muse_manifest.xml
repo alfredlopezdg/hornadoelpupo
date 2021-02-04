@@ -1,0 +1,322 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pupo.com" resolutions="1x" timestamp="1612478522517">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="171935261" ref="index"/>
+    <file name="index.css" crc="207614961" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="nomq_index.css" crc="398032829" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="muse-icon-font.woff" crc="289659492"/>
+    <file name="muse-icon-font.eot" crc="11967921"/>
+    <file name="muse-icon-font.svg" crc="3921643848"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cactus-crop-u1496.jpg" crc="4075020556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u1498.jpg" crc="434356570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1494.jpg" crc="221602755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="recurso-14.svg" crc="4286918351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 14_poster_.png" crc="372682732" ref="index"/>
+    <file name="recurso-15.svg" crc="4138631637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 15_poster_.png" crc="492270766" ref="index"/>
+    <file name="recurso-16.svg" crc="295702767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 16_poster_.png" crc="847693" ref="index"/>
+    <file name="instagram.svg" crc="3811365099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="169524636" ref="index"/>
+    <file name="caldo-de-gallina.jpg" crc="3858946763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caldo-de-pata.jpg" crc="4185808999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cariucho-de-gallina.jpg" crc="3763019572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="champuz.jpg" crc="190134569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-completo.jpg" crc="407657389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-y-queso.jpg" crc="3853497718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuy-asado.jpg" crc="193121621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empanada-de-morocho.jpg" crc="487404267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fritada.jpg" crc="4029272052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="higos.jpg" crc="3938956627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-completo-con-papas466x620.jpg" crc="169878239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-con-tortillas.jpg" crc="293938011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menudo-de-morcilla.jpg" crc="4021994970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mote-con-chicharron-completo.jpg" crc="5829108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="porcion-de-morcilla.jpg" crc="3789182460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pristiños.jpg" crc="4225697578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tostado-con-chicharron.jpg" crc="385598417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yaguarlocro.jpg" crc="8970920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caldo-de-gallina214x284.jpg" crc="4215517464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caldo-de-pata214x284.jpg" crc="4266139083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cariucho-de-gallina214x284.jpg" crc="4259419294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="champuz214x284.jpg" crc="4062994769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-completo214x284.jpg" crc="4259511978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-y-queso214x284.jpg" crc="176092471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuy-asado214x284.jpg" crc="115323595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empanada-de-morocho214x284.jpg" crc="3819435769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fritada214x284.jpg" crc="4197896826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="higos214x284.jpg" crc="4071430166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-completo-con-papas214x284.jpg" crc="3775164568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-con-tortillas214x284.jpg" crc="154076427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menudo-de-morcilla214x284.jpg" crc="88105165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mote-con-chicharron-completo214x284.jpg" crc="108699257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="porcion-de-morcilla214x284.jpg" crc="284399674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pristiños214x284.jpg" crc="3878426957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tostado-con-chicharron214x284.jpg" crc="4150174043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yaguarlocro214x284.jpg" crc="86497868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1380.jpg" crc="4141745940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1384.jpg" crc="3780384091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1382.jpg" crc="3841537884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus60x45.jpg" crc="4196736966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees60x45.jpg" crc="221420560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road60x45.jpg" crc="4293851619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-completo-con-papas.jpg" crc="298481327" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solo-texto.svg" crc="3941413970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solo texto_poster_.png" crc="62422996" ref="index"/>
+    <file name="recurso 24-100.jpg" crc="3916836108" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubicacion.png" crc="513077727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="115367519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="h contacto.png" crc="74296425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso-23.svg" crc="349947786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 23_poster_.png" crc="3881133925" ref="index"/>
+    <file name="caldo-de-gallina263x351.jpg" crc="459642842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caldo-de-pata263x351.jpg" crc="182743312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cariucho-de-gallina263x351.jpg" crc="4290230561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="champuz263x351.jpg" crc="430102432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-completo263x351.jpg" crc="287830676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choclo-y-queso263x351.jpg" crc="4199389653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuy-asado263x351.jpg" crc="392422783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empanada-de-morocho263x351.jpg" crc="3803729017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fritada263x351.jpg" crc="3897932287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="higos263x351.jpg" crc="261021032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-completo-con-papas263x351.jpg" crc="42982861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hornado-con-tortillas263x351.jpg" crc="190771446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menudo-de-morcilla263x351.jpg" crc="4033716747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mote-con-chicharron-completo263x351.jpg" crc="241785355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="porcion-de-morcilla263x351.jpg" crc="3992998151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pristiños263x351.jpg" crc="465492163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tostado-con-chicharron263x351.jpg" crc="4281999289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yaguarlocro263x351.jpg" crc="3779401010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u14962.jpg" crc="352189696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u14982.jpg" crc="4223154788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u14942.jpg" crc="4149964050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u13802.jpg" crc="77285685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u13842.jpg" crc="3966628488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u13822.jpg" crc="271156688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4241874592" seo="true" mt="1612478507090" redirect="true"/>
+</manifest>
